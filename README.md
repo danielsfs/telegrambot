@@ -1,2 +1,2 @@
 # telegrambot
-Bot utilizado para a liga da Bola Quadrada
+Bot desenvolvido com o objetivo de facilitar o controle da segunda rodada do Bola Quadrada, liga de Cartola Fc da família. Utilizo a API da globo para buscar informações dos jogos da rodada e rodada atual. Utilizo uma leitura de arquivo CSV onde busca a tabela da 19ª rodada (final do primeiro turno) e vai diminuindo da tabela das rodadas sucessoras. Dessa forma, conseguimos controlar a classificação, gerando uma tabela atualizada a cada nova rodada (20ª, 21ª...) como se fosse um turno zerado de pontuações.
